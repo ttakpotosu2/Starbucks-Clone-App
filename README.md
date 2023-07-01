@@ -1,8 +1,8 @@
 # Starbucks-Clone-App
+Clone of Starbucks App
+This project was meant to give hands-on approach to learning Jetpack Compose by building a popular "challenging" User Interface using jetpack compose.
 
-
-
-Tech Satck
+#Technology Stack
 1. Jetpack Compose
 2. Mobbin.com - for reference see https://mobbin.com/apps/starbucks-android-390b4097-c6dd-4fa3-8743-203c094d5e33/9fde3e17-89a3-43ac-879e-a07aaf8fdadf/screens
 
