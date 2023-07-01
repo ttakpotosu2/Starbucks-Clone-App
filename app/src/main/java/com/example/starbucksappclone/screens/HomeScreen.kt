@@ -245,7 +245,7 @@ fun HomeScreenCardContent(
                 style = TextStyle(
                     fontSize = 26.sp,
                     fontWeight = FontWeight.Bold,
-                    color = Color.White
+                    color = Color.Black
                 )
             )
             Text(
@@ -254,7 +254,7 @@ fun HomeScreenCardContent(
                 style = TextStyle(
                     fontSize = 20.sp,
                     fontWeight = FontWeight.Normal,
-                    color = Color.White
+                    color = Color.Black
                 )
             )
             Text(
@@ -263,7 +263,7 @@ fun HomeScreenCardContent(
                 style = TextStyle(
                     fontSize = 26.sp,
                     fontWeight = FontWeight.Bold,
-                    color = Color.White,
+                    color = Color.Black,
                     textDecoration = TextDecoration.Underline
                 )
             )
