@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.StarbucksAppClone" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/purple_700</item>
+        <item name="android:windowSplashScreenBackground" tools:targetApi="s">@color/purple_200</item>
+        <item name="android:windowSplashScreenAnimatedIcon" tools:targetApi="s">@drawable/starbucks_logo</item>
+        <item name="android:windowSplashScreenAnimationDuration" tools:targetApi="s">3000</item>
+    </style>
+</resources>
